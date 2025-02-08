@@ -1,6 +1,6 @@
 # Wut
 
-`Wut` is a faster, lazier, way to do puts debugging. With 3 characters, you can get a 
+`Wut` is a faster, lazier, way to do puts debugging. With 4 characters, you can get a 
 printout of your variable values. Great for debugging, or feeding into an LLM.
 
 ```ruby
